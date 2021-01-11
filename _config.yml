@@ -1,9 +1,10 @@
-remote_theme : alshedivat/al-folio
+
 
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
+remote_theme: alshedivat/al-folio
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Won-Ki
 middle_name: R.
@@ -17,7 +18,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url: https://wonkimoon.github.io # the base hostname & protocol for your site
+url: "https://wonkimoon.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
